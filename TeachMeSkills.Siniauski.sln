@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Siniauski.Homework1", "src\TeachMeSkills.Siniauski.Homework1\TeachMeSkills.Siniauski.Homework1.csproj", "{F033111A-49EF-40AD-873B-2CC71F322F20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Siniauski.Homework2", "src\TeachMeSkills.Siniauski.Homework2\TeachMeSkills.Siniauski.Homework2.csproj", "{D3B3C580-9D7C-45D6-B0E7-A80D2E91FB8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Siniauski.Homework2", "src\TeachMeSkills.Siniauski.Homework2\TeachMeSkills.Siniauski.Homework2.csproj", "{D3B3C580-9D7C-45D6-B0E7-A80D2E91FB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Siniauski.Homework3", "src\TeachMeSkills.Siniauski.Homework3\TeachMeSkills.Siniauski.Homework3.csproj", "{9A629891-81CF-4B13-B1B9-6CE5D2EAFE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D3B3C580-9D7C-45D6-B0E7-A80D2E91FB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3B3C580-9D7C-45D6-B0E7-A80D2E91FB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3B3C580-9D7C-45D6-B0E7-A80D2E91FB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A629891-81CF-4B13-B1B9-6CE5D2EAFE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A629891-81CF-4B13-B1B9-6CE5D2EAFE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A629891-81CF-4B13-B1B9-6CE5D2EAFE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A629891-81CF-4B13-B1B9-6CE5D2EAFE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
