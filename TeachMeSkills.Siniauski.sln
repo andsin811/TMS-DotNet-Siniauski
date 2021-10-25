@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Siniauski.Hom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Siniauski.Homework4", "src\TeachMeSkills.Siniauski.Homework4\TeachMeSkills.Siniauski.Homework4.csproj", "{6DAD5320-D806-4DB4-BCC5-F5DBDF57EA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Siniauski.Homework5", "src\TeachMeSkills.Siniauski.Homework5\TeachMeSkills.Siniauski.Homework5.csproj", "{98AE3A2F-442F-4182-90B1-0A40D10F8B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Siniauski.Homework5", "src\TeachMeSkills.Siniauski.Homework5\TeachMeSkills.Siniauski.Homework5.csproj", "{98AE3A2F-442F-4182-90B1-0A40D10F8B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Siniauski.Homework6", "src\TeachMeSkills.Siniauski.Homework6\TeachMeSkills.Siniauski.Homework6.csproj", "{19AC3E11-4A5E-47D1-B618-17223EC131D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{98AE3A2F-442F-4182-90B1-0A40D10F8B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98AE3A2F-442F-4182-90B1-0A40D10F8B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98AE3A2F-442F-4182-90B1-0A40D10F8B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AC3E11-4A5E-47D1-B618-17223EC131D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC3E11-4A5E-47D1-B618-17223EC131D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC3E11-4A5E-47D1-B618-17223EC131D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC3E11-4A5E-47D1-B618-17223EC131D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
